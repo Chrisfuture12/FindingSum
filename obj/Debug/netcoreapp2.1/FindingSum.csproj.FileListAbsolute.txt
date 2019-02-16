@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/bin/Debug/netcoreapp2.1/FindingSum.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/bin/Debug/netcoreapp2.1/FindingSum.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/bin/Debug/netcoreapp2.1/FindingSum.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/bin/Debug/netcoreapp2.1/FindingSum.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/bin/Debug/netcoreapp2.1/FindingSum.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/FindingSum/obj/Debug/netcoreapp2.1/FindingSum.pdb
